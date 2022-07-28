@@ -1,4 +1,4 @@
-#Matrix-calculator
+# Matrix-calculator
 
 - matrix addition
 - matrix subtraction
